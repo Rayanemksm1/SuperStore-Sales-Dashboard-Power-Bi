@@ -52,13 +52,13 @@ Prévisions : Ventes moyennes des 15 prochains jours : 5 304 $ – Préparation 
 
 
 
-##### Apprentissages du projet
+## Apprentissages du projet
 
 Ce projet a permis d’acquérir des compétences précieuses dans la maîtrise des techniques d’analyse de données, en particulier l’analyse des séries temporelles, pour stimuler le succès de l’entreprise grâce à des informations pertinentes et des prévisions de ventes précises.
 
 
 
-##### Recommandations
+## Recommandations
 
 
 
